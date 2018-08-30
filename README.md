@@ -18,6 +18,7 @@ According to this article, this is a "real version" of steerable pyramid which i
 <img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/saucer-mono256.png" width="256" alt="saucer">
 
  ### Pyramid Images
+ #### band frequency 
 <img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/img-layer0-lb0.png" alt="steerable pyramid"> <img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/img-layer0-lb1.png" alt="steerable pyramid"> <img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/img-layer0-lb2.png" alt="steerable pyramid"> <img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/img-layer0-lb3.png" alt="steerable pyramid">
  
 <img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/img-layer1-lb0.png" alt="steerable pyramid"> <img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/img-layer1-lb1.png" alt="steerable pyramid"> <img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/img-layer1-lb2.png" alt="steerable pyramid"> <img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/img-layer1-lb3.png" alt="steerable pyramid">
@@ -26,21 +27,36 @@ According to this article, this is a "real version" of steerable pyramid which i
  
 <img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/img-layer3-lb0.png" alt="steerable pyramid"> <img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/img-layer3-lb1.png" alt="steerable pyramid"> <img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/img-layer3-lb2.png" alt="steerable pyramid"> <img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/img-layer3-lb3.png" alt="steerable pyramid">
   
-low frequency residual  
+#### low frequency residual  
 <img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/img-residual-layer3.png" alt="steerable pyramid">
 
-high frequency residual  
+#### high frequency residual  
 <img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/img-h0.png" alt="steerable pyramid">
 
 
 ### Reconstructed Images
-<img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/img-h0.png" alt="steerable pyramid">
+<img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/img-recon-full.png" alt="steerable pyramid">
 
-  
+
+### Images of Filters (Fourier Domain)
+### First Highpass Filter (H0 in Portilla and Simoncelli)
+<img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/fil_highpass0.png" alt="filter">
+
+### First Lowpass Filter (L0 in Portilla and Simoncelli)
+<img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/fil_lowpass0.png" alt="filter">
+
+### Bandpass Filters (B*L in Portilla and Simoncelli)
+<img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/fil_lo-bandpass0-layer0.png" alt="filter"> <img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/fil_lo-bandpass1-layer0.png" alt="filter"> <img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/fil_lo-bandpass2-layer0.png" alt="filter"> <img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/fil_lo-bandpass3-layer0.png" alt="filter">
+
+
 ## Usage 
 ### Environment
 - python3.5 (3.0+)
 - GPU is not used.
+
+### Execution
+- create 'out' directory. 
+- `python create_collapse_pyramid.py -i saucer-mono256.png -x 256 -y 256`
 
   
 
