@@ -17,7 +17,7 @@ According to this article, this is a "real version" of steerable pyramid which i
  ### Original Image
 <img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/saucer-mono256.png" width="256" alt="saucer">
 
- ### Pyramid
+ ### Pyramid Images
 <img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/img-layer0-lb0.png" alt="steerable pyramid"> <img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/img-layer0-lb1.png" alt="steerable pyramid"> <img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/img-layer0-lb2.png" alt="steerable pyramid"> <img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/img-layer0-lb3.png" alt="steerable pyramid">
  
 <img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/img-layer1-lb0.png" alt="steerable pyramid"> <img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/img-layer1-lb1.png" alt="steerable pyramid"> <img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/img-layer1-lb2.png" alt="steerable pyramid"> <img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/img-layer1-lb3.png" alt="steerable pyramid">
@@ -32,9 +32,15 @@ low frequency residual
 high frequency residual  
 <img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/img-h0.png" alt="steerable pyramid">
 
+
+### Reconstructed Images
+<img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/img-h0.png" alt="steerable pyramid">
+
   
 ## Usage 
 ### Environment
 - python3.5 (3.0+)
 - GPU is not used.
+
+  
 
