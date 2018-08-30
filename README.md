@@ -1,16 +1,17 @@
 # Steerable Pyramid
 Python3 Implementation of steerable pyramid.
 
-This is based on the article bellow.
+This is based on the article bellow.  
 
 [The Heeger-Bergen Pyramid-Based Texture Synthesis Algorithm, Briand,T. et al. (2014)](http://www.ipol.im/pub/art/2014/79/)
 
-According to this article, this is a "real version" of steerable pyramid which is used in Portilla and Simoncelli(2000).
+According to this article, this is a "real version" of steerable pyramid which is used in Portilla and Simoncelli(2000).  
 
 [Parametric Texture Model Based on Joint Statistics of Complex Wavelet Coefficient, Portilla, J. and Simoncelli, E.(2000) ](http://www.cns.nyu.edu/pub/lcv/portilla99.pdf)  
   
   
-  
+    
+    
  ## Results
  - Depth : 4
  - Orientation : 4 (0, pi/4, pi/2, 3*pi/4)
