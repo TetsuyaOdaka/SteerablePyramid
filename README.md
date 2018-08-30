@@ -39,13 +39,13 @@ According to this article, this is a "real version" of steerable pyramid which i
 
 
 ### Images of Filters (Fourier Domain)
-### First Highpass Filter (H0 in Portilla and Simoncelli)
+#### First Highpass Filter (H0 in Portilla and Simoncelli)
 <img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/fil_highpass0.png" alt="filter">
 
-### First Lowpass Filter (L0 in Portilla and Simoncelli)
+#### First Lowpass Filter (L0 in Portilla and Simoncelli)
 <img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/fil_lowpass0.png" alt="filter">
 
-### Bandpass Filters (B*L in Portilla and Simoncelli)
+#### Bandpass Filters (B*L in Portilla and Simoncelli)
 <img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/fil_lo-bandpass0-layer0.png" alt="filter"> <img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/fil_lo-bandpass1-layer0.png" alt="filter"> <img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/fil_lo-bandpass2-layer0.png" alt="filter"> <img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/fil_lo-bandpass3-layer0.png" alt="filter">
 
 
