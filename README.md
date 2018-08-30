@@ -26,10 +26,10 @@ According to this article, this is a "real version" of steerable pyramid which i
 <img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/img-layer3-lb0.png" alt="steerable pyramid">&nbsp;<img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/img-layer3-lb1.png" alt="steerable pyramid">&nbsp;<img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/img-layer3-lb2.png" alt="steerable pyramid">&nbsp;<img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/img-layer3-lb3.png" alt="steerable pyramid">
 
  low frequency residual 
-<img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/img-residual-layer3.png" alt="steerable pyramid">
+ <img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/img-residual-layer3.png" alt="steerable pyramid">
 
  high frequency residual 
-<img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/img-h0.png" alt="steerable pyramid">
+ <img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/img-h0.png" alt="steerable pyramid">
 
  
 
