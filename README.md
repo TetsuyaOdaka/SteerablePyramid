@@ -17,7 +17,7 @@ According to this article, this is a "real version" of steerable pyramid which i
 <img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/saucer-mono256.png" width="256" alt="saucer">
 
  ### Pyramid
-<img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/img-layer0-lb0.png" alt="steerable pyramid">&nbsp;<img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/img-layer0-lb1.png" alt="steerable pyramid">&nbsp;<img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/img-layer0-lb2.png" alt="steerable pyramid">&nbsp;<img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/img-layer0-lb3.png" alt="steerable pyramid">
+<img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/img-layer0-lb0.png" alt="steerable pyramid"> <img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/img-layer0-lb1.png" alt="steerable pyramid">&nbsp;<img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/img-layer0-lb2.png" alt="steerable pyramid">&nbsp;<img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/img-layer0-lb3.png" alt="steerable pyramid">
  
 <img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/img-layer1-lb0.png" alt="steerable pyramid">&nbsp;<img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/img-layer1-lb1.png" alt="steerable pyramid">&nbsp;<img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/img-layer1-lb2.png" alt="steerable pyramid">&nbsp;<img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/img-layer1-lb3.png" alt="steerable pyramid">
  
@@ -25,11 +25,11 @@ According to this article, this is a "real version" of steerable pyramid which i
  
 <img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/img-layer3-lb0.png" alt="steerable pyramid">&nbsp;<img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/img-layer3-lb1.png" alt="steerable pyramid">&nbsp;<img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/img-layer3-lb2.png" alt="steerable pyramid">&nbsp;<img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/img-layer3-lb3.png" alt="steerable pyramid">
 
-low frequency residual 
-<img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/img-residual-layer3.png" alt="steerable pyramid">
+low frequency residual
+  <img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/img-residual-layer3.png" alt="steerable pyramid">
 
 high frequency residual 
-<img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/img-h0.png" alt="steerable pyramid">
+  <img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/img-h0.png" alt="steerable pyramid">
 
  
 
