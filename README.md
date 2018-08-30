@@ -56,7 +56,15 @@ According to this article, this is a "real version" of steerable pyramid which i
 
 ### Execution
 - create 'out' directory. 
-- `python create_collapse_pyramid.py -i saucer-mono256.png -x 256 -y 256`
+- `python create_collapse_pyramid.py -i saucer-mono256.png -x 256 -y 256`,  if you want to know details about parameters, see [source code](https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/create_collapse_pyramid.py)
+
+
+## References
+- [The Heeger-Bergen Pyramid-Based Texture Synthesis Algorithm, Briend, T. et al.(2014)](http://www.ipol.im/pub/art/2014/79/)
+- [Parametric Texture Model Based on Joint Statistics of Complex Wavelet Coefficient, Portilla, J. and Simoncelli, E.(2000)](http://www.cns.nyu.edu/pub/lcv/portilla99.pdf)
+- [The Steerable Pyramid:A Flexible Architecture For Multi-Scale Derivative Computation, Simoncelli,E. and Freeman, W.(1995)](http://www.cns.nyu.edu/pub/eero/simoncelli95b.pdf)
+- [A Filter Design Technique For Steerable Pyramid Image Transform, Karasaridis, A. and Simoncelli,E.(1996)](https://pdfs.semanticscholar.org/625e/ec8262570a3d62a2f252c151ef14e2be9b5d.pdf)
+- [Design and Use of Steerable Filters, Freeman,W. and Adelson,E.(1991)](http://people.csail.mit.edu/billf/publications/Design_and_Use_of_Steerable_Filters.pdf)
 
   
 
