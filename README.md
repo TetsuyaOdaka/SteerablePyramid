@@ -8,7 +8,8 @@ This is based on the article bellow.
 According to this article, this is a "real version" of steerable pyramid which is used in Portilla and Simoncelli(2000).
 
 [Parametric Texture Model Based on Joint Statistics of Complex Wavelet Coefficient, Portilla, J. and Simoncelli, E.(2000) ](http://www.cns.nyu.edu/pub/lcv/portilla99.pdf)
-
+  
+  
  ## Results
  - Depth : 4
  - Orientation : 4 (0, pi/4, pi/2, 3*pi/4)
@@ -31,5 +32,9 @@ low frequency residual
 high frequency residual  
 <img src="https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/out/img-h0.png" alt="steerable pyramid">
 
- 
+  
+## Usage 
+### Environment
+- python3.5 (3.0+)
+- GPU is not used.
 
